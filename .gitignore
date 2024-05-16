@@ -1,0 +1,6 @@
+/target
+*.db
+*.bz2
+.vscode
+*.xml
+*.svg
